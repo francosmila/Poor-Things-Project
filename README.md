@@ -12,7 +12,7 @@ This is my web development project for the CEI course, inspired by the film Poor
 
 ## Have a Peek 👀
 - [Github Preview](https://francosmila.github.io/Poor-Things-Project/)
-- [Regular Preview]((https://poorthings.francoscamila.com/))
+- [Regular Preview](https://poorthings.francoscamila.com/)
 
 ## Installation 
 No installation needed. Just open the folder or double-click the .html file and you’re good to go.
