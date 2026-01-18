@@ -11,7 +11,7 @@ This is my web development project for the CEI course, inspired by the film Poor
 * [Instagram](https://www.instagram.com/cati.cornio/)
 
 ## Have a Peek 👀
-- []()
+- [Preview](https://francosmila.github.io/Poor-Things-Project/)
 
 ## Installation 
 No installation needed. Just open the folder or double-click the .html file and you’re good to go.
